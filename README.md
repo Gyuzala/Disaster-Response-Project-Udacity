@@ -6,7 +6,7 @@ Disaster Response Project for Data Scientist Nanodegree Program by Udacity
 1. [Installation](#installation)
 2. [Project Motivation](#project-motivation)
 3. [File Descriptions](#file-descriptions)
-4. [Results](#results)
+4. [Executing Program](#executing-program)
 5. [Licensing, Authors, and Acknowledgements](#licensing-authors-and-acknowledgements)
 
 
